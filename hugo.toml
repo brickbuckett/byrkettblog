@@ -34,7 +34,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
+    title = "Second Braincell"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -43,7 +43,7 @@ paginate     = 10
     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "C:/second braincell"
       logoHomeLink = "/"
     # or
     #
