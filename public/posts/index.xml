@@ -6,18 +6,19 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://blog.secondbraincell.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title></title>
-            <link>https://blog.secondbraincell.com/posts/this-is-a-test/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <title>Sharing my thoughts</title>
+            <link>https://blog.secondbraincell.com/posts/test/</link>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
             
-            <guid>https://blog.secondbraincell.com/posts/this-is-a-test/</guid>
-            <description>&lt;p&gt;al;sdkfha;kdga jf
-adfja;lkdga;kdfa&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>al;sdkfha;kdga jf
-adfja;lkdga;kdfa</p>
+            <guid>https://blog.secondbraincell.com/posts/test/</guid>
+            <description>&lt;p&gt;Hello!&lt;/p&gt;
+&lt;p&gt;I am creating this site to share my thoughts on the world as I see it.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Hello!</p>
+<p>I am creating this site to share my thoughts on the world as I see it.</p>
 ]]></content>
         </item>
         
