@@ -1,5 +1,5 @@
 baseURL = "https://blog.secondbraincell.com"
-title   = "Second Braincell"
+title   = "The Second Braincell"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -62,13 +62,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "Brian's Second Braincell"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Second Braincell"
+  homeSubtitle = "Brian Byrkett"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -101,7 +101,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -124,10 +124,10 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = 2023
-    rss = true
-    copyright = true
-    author = true
+    trademark = 2024
+    rss = false
+    copyright = false
+    author = false
 
     topText = []
     bottomText = [
@@ -153,7 +153,7 @@ disableHugoGeneratorInject = false
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
     # Append the current url pathname to logoText 
-    # logoCursorPathname = true
+    logoCursorPathname = true
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
   # Addon: Startpage portrait 
