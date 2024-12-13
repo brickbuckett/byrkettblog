@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.secondbraincell.com/posts/this-is-a-test/</loc>
+  </url><url>
     <loc>https://blog.secondbraincell.com/blog/</loc>
   </url><url>
     <loc>https://blog.secondbraincell.com/</loc>
+  </url><url>
+    <loc>https://blog.secondbraincell.com/posts/</loc>
   </url><url>
     <loc>https://blog.secondbraincell.com/series/</loc>
   </url><url>
