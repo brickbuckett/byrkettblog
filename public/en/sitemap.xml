@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.secondbraincell.com/posts/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.secondbraincell.com/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -14,9 +17,6 @@
                 hreflang="en"
                 href="https://blog.secondbraincell.com/"
                 />
-  </url><url>
-    <loc>https://blog.secondbraincell.com/posts/</loc>
-    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.secondbraincell.com/posts/2024/12/sharing-my-thoughts/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>

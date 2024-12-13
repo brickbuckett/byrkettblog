@@ -1,5 +1,5 @@
 baseURL = "https://blog.secondbraincell.com"
-title   = "Hello Friend NG"
+title   = "Second Braincell"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Second Braincell"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -118,7 +118,7 @@ disableHugoGeneratorInject = false
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
   [params.author]
-    name = "Jane Doe"
+    name = "Brian Byrkett"
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
@@ -144,7 +144,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "$ cd ~/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -224,24 +224,16 @@ disableHugoGeneratorInject = false
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
-
-  [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:brian.byrkett@outlook.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/brickbuckett"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://www.linkedin.com/in/brianbyrkett"
 
 [languages]
   [languages.en]
