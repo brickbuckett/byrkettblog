@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello Friend NG</title>
-    <link>localhost/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Hello Friend NG</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Blog Post</title>
-      <link>localhost/posts/test-blog-post/</link>
+      <link>//localhost:1313/posts/test-blog-post/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>localhost/posts/test-blog-post/</guid>
+      <guid>//localhost:1313/posts/test-blog-post/</guid>
       <description>&lt;p&gt;This is a test of the blogpost system.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>localhost/posts/test/</link>
+      <link>//localhost:1313/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>localhost/posts/test/</guid>
+      <guid>//localhost:1313/posts/test/</guid>
       <description>&lt;p&gt;testtttttttttt&lt;/p&gt;</description>
     </item>
   </channel>
