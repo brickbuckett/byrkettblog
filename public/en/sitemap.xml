@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://blog.secondbraincell.com/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://blog.secondbraincell.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://blog.secondbraincell.com/"
                 />
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://blog.secondbraincell.com/posts/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2024/12/sharing-my-thoughts/</loc>
+    <loc>https://blog.secondbraincell.com/posts/2024/12/sharing-my-thoughts/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://blog.secondbraincell.com/tags/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://blog.secondbraincell.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://blog.secondbraincell.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/thoughts/</loc>
+    <loc>https://blog.secondbraincell.com/tags/thoughts/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://blog.secondbraincell.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://blog.secondbraincell.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://blog.secondbraincell.com/categories/"
                 />
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://blog.secondbraincell.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://blog.secondbraincell.com/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://blog.secondbraincell.com/series/"
                 />
   </url>
 </urlset>
