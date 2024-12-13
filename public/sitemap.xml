@@ -2,28 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>blog.secondbraincell.com/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/it/</loc>
+    <loc>blog.secondbraincell.com/tags/it/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>blog.secondbraincell.com/posts/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>blog.secondbraincell.com/tags/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/test/</loc>
+    <loc>blog.secondbraincell.com/tags/test/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/test-blog-post/</loc>
+    <loc>blog.secondbraincell.com/posts/test-blog-post/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/test/</loc>
+    <loc>blog.secondbraincell.com/posts/test-blog-post-2/</loc>
+    <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>blog.secondbraincell.com/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>blog.secondbraincell.com/series/</loc>
   </url>
 </urlset>
