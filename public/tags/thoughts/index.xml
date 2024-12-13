@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts on Second Braincell</title>
-    <link>https://blog.secondbraincell.com/tags/thoughts/</link>
-    <description>Recent content in Thoughts on Second Braincell</description>
+    <title>Thoughts on Hello Friend NG</title>
+    <link>https://example.com/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Hello Friend NG</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.secondbraincell.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sharing my thoughts</title>
-      <link>https://blog.secondbraincell.com/posts/test/</link>
+      <link>https://example.com/posts/2024/12/sharing-my-thoughts/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.secondbraincell.com/posts/test/</guid>
+      <guid>https://example.com/posts/2024/12/sharing-my-thoughts/</guid>
       <description>&lt;p&gt;Hello!&lt;/p&gt;&#xA;&lt;p&gt;I am creating this site to share my thoughts on the world as I see it.&lt;/p&gt;</description>
     </item>
   </channel>
