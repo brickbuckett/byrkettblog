@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://blog.secondbraincell.com"
 title        = "Second Braincell"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
